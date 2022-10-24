@@ -1,0 +1,19 @@
+A Full Stack Developer is someone who works with the Backend or server side of the application as well as the frontend or client side.In Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.
+Below are some of the tools full stack developers uses!
+1 CodePen
+2 Visual Studio Code
+3 TypeScript
+4 GitHub
+5 Slack
+6 Electron.
+Some of the languages full stack developer are!
+1 Html5
+2 CSS3
+3 JavaScript
+4 TypeScrip
+5 PHP
+6 SQL
+7 Python
+8 Django
+9 MongoDB. 
+
